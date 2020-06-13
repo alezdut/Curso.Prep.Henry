@@ -1,0 +1,10 @@
+
+Explicación:
+
+for: nos permite crear bucles para evitar escribir muchas veces la misma linea de código, se le puede indicar al bucle que se repita hasta que se cumpla una condición.
+
+&&: una condición && es verdadera siempre que ambas afirmaciones que la componen sean verdaderas y falsas en los demás casos.
+
+||: una condición que resulta verdadera en el caso de que alguna de las dos afirmaciones que la componen sean verdaderas y falsa solo en el caso que ambas sean falsas.
+
+!: símbolo utilizado por javascript para denotar la negación, cambia el sentido de un valor convirtiéndolo en falso si era verdadero y en verdadero si este era falso, se puede usar una doble negación !! que nos arrojaría el valor original.
