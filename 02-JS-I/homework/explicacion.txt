@@ -1,0 +1,6 @@
+
+variables: son elementos que nos permiten asignarles un valor que podemos usar mas adelante, sumando, restando, comparando, etc.
+strings: son cadenas de texto, se usan para almacenar caracteres, palabras o frases enteras.
+funciones: son elementos que retornan un valor dependiendo de los datos que les ingresemos, nos permite escribir una funcion solo una vez y utilizarla muchas veces cambiando los valores que ingresemos.
+declaraciones: nos permiten realizar una accion si otra accion que le precede es verdadera, de lo contrario esta accion no se realizara, como por ej sacar la basura solo si hoy es miercoles.
+valores booleanos: son valores que representan si una accion o condicion es verdadera o falsa, un valor booleano solo puede ser verdadero o falso.
